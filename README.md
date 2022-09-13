@@ -106,6 +106,14 @@ This repository contains useful resources for image enhancement researches.
   * UNIQUE (↑)
   * BRISQUE (↓)
   * SPAQ (↑)
+  
+# Proposed Dataset (SICE_Mix/Grad)
+
+# Inferened Result (Images)
+https://drive.google.com/drive/folders/1FvWkcy4Ykg4XyGMxmW9k-R3BZ7DjhmS4?usp=sharing
+
+# Score Tables
+https://shimo.im/sheets/VMAPVVoJw7hmmoqg/MODOC
 
 # Related Repository
 
