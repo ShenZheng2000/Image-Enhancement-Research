@@ -112,9 +112,6 @@ This repository contains useful resources for image enhancement researches.
 # Inferened Result (Images)
 https://drive.google.com/drive/folders/1FvWkcy4Ykg4XyGMxmW9k-R3BZ7DjhmS4?usp=sharing
 
-# Score Tables
-https://shimo.im/sheets/VMAPVVoJw7hmmoqg/MODOC
-
 # Related Repository
 
 * [Low-Light Image and Video Enhancement Using Deep Learning: A Survey](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open) (**Highly Recommended**)
